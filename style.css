@@ -1,0 +1,18 @@
+.imagem{
+	border-style: double;
+	border-radius: 25%;
+}
+.Corpo{
+	background-color: #32CD32;
+
+}
+.Nome{
+	color: #191970;
+	font-style: italic;
+}
+.seção{
+	background-color: #2E8B57;
+}
+.paragrafo{
+	font-style: oblique;
+}
